@@ -1,2 +1,4 @@
 # Maven-Market-Business-Intelligence-
 Power BI retail sales analysis project using the Maven Market dataset. Built a star-schema data model to analyze sales, profit, customer behavior, store performance, product trends, and returns. Includes KPI tracking, regional insights, membership analysis, and profitability evaluation to support data-driven business decisions and strategic growth.
+
+The Maven Market dataset reveals strong year-over-year growth driven primarily by supermarket store formats and core middle-income customers. Regional differences indicate clear opportunities for expansion and optimization. Low return rates and strong profit margins suggest efficient operations and healthy pricing strategy. Future growth should focus on loyalty program upgrades, region-based targeting, and maximizing high-volume product categories.
